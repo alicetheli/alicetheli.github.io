@@ -1,0 +1,143 @@
+h1{
+	text-align: center;
+	margin: 20px 50px 20px 100px;
+}
+
+p, h2, h3, h4, ol, ul{
+	margin: 10px 250px 10px 250px;
+}
+
+ol, ul, li{
+	list-style-position: inside;
+	padding:5px;
+	margin: 10px 25px 10px 25px;
+}
+
+
+span{
+color: Red;}
+
+figure{
+margin: 10px 250px 10px 250px;
+}
+
+.indented {
+    text-indent: 50px;
+}
+
+.personal{
+	background-color:lightblue;
+	padding:5px;
+	margin: 0px 250px 0px 250px;
+	}
+
+.example{
+	background-color: rgb(245,159,192);
+	padding: 5px;
+	margin: 0px 250px 0px 250px;
+	list-style-position: inside;
+	}
+
+.blank{
+	background-color:white;
+	padding:5px;
+	margin: 10px 250px 10px 250px;
+	}
+
+.MUST{
+	background-color:#99FF99;
+	padding:5px;
+	margin:0px 250px 0px 250px;
+	}
+
+.BOOSTER{
+	background-color:#FFFF66;
+	padding:5px;
+	margin:0px 250px 0px 250px;
+	}	
+	
+.bullets{
+	background-color: rgb(245,159,192);
+	padding: 5px;
+	margin:0px 250px 0px 250px;
+	}
+
+.logo{
+margin: 10px 250px 10px 250px;
+}
+
+body {
+		font: 20px arial, Verdana, san-serif;
+		background: white;
+		color: Black;
+		margin: 10px 250px 10px 250px;
+	}
+
+
+#main_nav ul {
+    background: rgb(176, 224, 230);
+	float: left;
+	-webkit-transition: 0.1s;
+	transition:0.1s;
+	padding: 20;
+    margin: 0;
+
+}
+
+
+#main_nav li {
+	float: left;
+    position: relative;
+	display: inline;
+	width: 250px;
+	list-style:none;
+	-webkit-transition: 0.1s;
+	transition: 0.1s;
+	margin:0;
+}
+
+
+
+#main_nav ul ul {
+    position: absolute;
+    visibility: hidden;
+	opacity:0;
+	top:100%;
+	display:block;
+}
+
+
+#main_nav ul ul ul {
+    left: 100%;
+    top: 0;
+}
+
+
+#main_nav li:hover, #main_nav li:hover li{
+		background:#00FF66;
+		}
+
+#main_nav li li:hover, #main_nav li li:hover li{
+		background:#FFFF33;
+		}
+
+#main_nav li li li:hover{
+		background:#999;
+		}
+
+
+#main_nav li:hover > ul {
+    display: block;
+	visibility:visible;
+	opacity:1 ;
+}
+
+#main_nav a{
+		display:block;
+		text-decoration:none;
+		padding: 5px 15px;
+		color:#000;}
+
+#myCarousel {
+	z-index: -10000;
+}
