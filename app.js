@@ -51,7 +51,7 @@ var html =
         + '</ul>'
       + '</li>'
 
-      + '<li><a href="Interview questions.html">Interview Questions</a></li>'
+      + '<li><a href="Questions.html">Interview Questions</a></li>'
 
       + '<li>'
         + '<a href="#">Interview Trips</a>'
