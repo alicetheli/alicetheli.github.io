@@ -8,7 +8,7 @@ var html =
       + '<li><a href="">Volunteering with OT</a>'
       + '<ul>'
         + '<li><a href="Application/Getting an OT Volunteering Position.html">Getting the Position</a></li>'
-        + '<li><a href="OT Volunteering Tactics.html">Tactics</a></li>'
+        + '<li><a href="Tactics.html">Tactics</a></li>'
       + '</ul>'
       + '</li>'
 
@@ -82,9 +82,9 @@ var html =
   + '<li>'
     + '<a href="#">Important Letters<span class="arrow">&#9660</span></a>'
     + '<ul>'
-      + '<li><a href="After acceptance/Thank you.html">Thank You Letters</a></li>'
-      + '<li><a href="After acceptance/Withdraw.html">Withdraw Letters</a></li>'
-      + '<li><a href="After Acceptance/Deposit.html">Deposit Info</a></li>'
+      + '<li><a href="ThankYou.html">Thank You Letters</a></li>'
+      + '<li><a href="Withdraw.html">Withdraw Letters</a></li>'
+      + '<li><a href="Deposit.html">Deposit Info</a></li>'
     + '</ul>'
   + '</li>'
 + '</ul>';
