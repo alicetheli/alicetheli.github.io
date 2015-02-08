@@ -27,7 +27,7 @@ var html =
           + '<li><a href="Rmaterials.html">Recommendation Materials</a></li>'
           + '<li><a href="Statement.html">Personal Statement</a></li>'
           + '<li><a href="CV.html">CV(or Resume)</a></li>'
-          + '<li><a href="Summary.html">Recommendation Summary</a></li>'
+          + '<li><a href="RecSummary.html">Recommendation Summary</a></li>'
         + '</ul>'
         + '</li>'
 
