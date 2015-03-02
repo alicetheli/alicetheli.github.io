@@ -25,6 +25,10 @@ margin: 10px 250px 10px 250px;
     text-indent: 50px;
 }
 
+.red{
+	color: red;
+	}
+
 .personal{
 	background-color:lightblue;
 	padding:5px;
@@ -141,3 +145,4 @@ body {
 #myCarousel {
 	z-index: -10000;
 }
+
