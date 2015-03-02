@@ -68,7 +68,7 @@ var html =
   + '<li>'
     + '<a href="#">OT Crash Course<span class="arrow">&#9660</span></a>'
     + '<ul>'
-      + '<li><a href="OT Crash Course/MUST KNOW.html">MUST KNOW Concepts</a></li>'
+      + '<li><a href="Mustknow.html">MUST KNOW Concepts</a></li>'
       + '<li>'
         + '<a href="#">OT fundamentals</a>'
         + '<ul>'
