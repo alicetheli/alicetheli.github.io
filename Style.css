@@ -90,7 +90,8 @@ body {
 
 #main_nav{
 	position:relative;
-	z-index: 100,000:
+	z-index: 1,000,000;
+	height: 100px;
 	}
 	
 	

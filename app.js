@@ -87,6 +87,10 @@ var html =
       + '<li><a href="Deposit.html">Deposit Info</a></li>'
     + '</ul>'
   + '</li>'
+  
+	+'<li>'
+	+'<a href="index.html">Home</a>'
+	+'</li>'
 + '</ul>';
 
 document.getElementById("main_nav").innerHTML = html;
