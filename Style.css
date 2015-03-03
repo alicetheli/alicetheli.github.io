@@ -88,7 +88,12 @@ body {
 		margin: 10px 250px 10px 250px;
 	}
 
-
+#main_nav{
+	position:relative;
+	z-index: 10,000:
+	}
+	
+	
 #main_nav ul {
     background: rgb(176, 224, 230);
 	float: left;
@@ -104,7 +109,6 @@ body {
 	float: left;
     position: relative;
 	display: inline;
-	width: 250px;
 	list-style:none;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -152,8 +156,4 @@ body {
 		text-decoration:none;
 		padding: 5px 15px;
 		color:#000;}
-
-#myCarousel {
-	z-index: -10000;
-}
 
