@@ -29,6 +29,17 @@ margin: 10px 250px 10px 250px;
 	color: red;
 	}
 
+td{
+	padding:7px 10px 10px 10px;
+	border: 2px solid black;
+	}
+table{
+	border: 2 px solide black;
+	border-collapse:collapse;
+	}	
+	
+	
+	
 .personal{
 	background-color:lightblue;
 	padding:5px;
